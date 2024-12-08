@@ -1,6 +1,6 @@
 # Formatting
 # Naming
-Your Freakifest must be named F.json.
+Your Freakifest must be named F.fest (2) or F.json (1).
 <br>
 # Styling
 Freakifest has the same style as any other JSON file (ex: Manifest by Chrome).

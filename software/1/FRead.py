@@ -1,6 +1,7 @@
 import json
+# This is for FreakiFest 1 ONLY
 print("Only approved Cus will show.")
-with open('F.json', 'r') as file:
+with open('F.fest', 'r') as file:
     data = json.load(file)
     print("Freakifest Version: " + data['f_ver'])
     # print("Is Greg: " + data['isGreg'])

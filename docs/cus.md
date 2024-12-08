@@ -5,4 +5,4 @@ You may get yours approved by emailing freakybobsite@proton.me with your reasoni
 <br>
 Cus must come after the "custom" part of the JSON.
 <br>
-Are you providing your own Cus value? You must also have a [cus name here].provider part with your website in reverse DNS format.
+[Provider information is here.](cus.provider.md)

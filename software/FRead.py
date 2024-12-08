@@ -9,10 +9,10 @@ with open('F.json', 'r') as file:
     print("Description: " + data['description'])
     try:
         print("Rating (site.freakybob): " + data['site.freakybob.ratings'])
-    except NameError:
+    except:
         None
     try:
         print("Website (via " + data['website.provider'] + "): " + data['website'])
-    except NameError:
+    except:
         None
     file.close()

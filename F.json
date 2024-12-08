@@ -1,4 +1,7 @@
 {
     "f_ver": "1",
-    "isGreg": "Yes"
+    "isGreg": "Yes",
+    "name": "com.example",
+    "soft_ver": "69",
+    "description": "Example.com Freakifest"
 }

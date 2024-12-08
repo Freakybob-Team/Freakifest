@@ -1,10 +1,10 @@
 {
     "f_ver": "1",
-    "isGreg": "Yes",
     "name": "com.example",
     "soft_ver": "69",
     "description": "Example.com Freakifest",
     "custom": "Put custom lines below (Documentation, website, etc)!",
     "website": "https://example.com",
+    "website.provider": "com.example",
     "site.freakybob.ratings": "5 stars"
 }

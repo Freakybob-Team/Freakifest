@@ -8,11 +8,13 @@ with open('F.json', 'r') as file:
     print("Software Version: " + data['soft_ver'])
     print("Description: " + data['description'])
     try:
-        print("Rating (site.freakybob): " + data['site.freakybob.ratings'])
+        print("site.freakybob.ratings: " + data['site.freakybob.ratings'])
+        print("This is a good example of a production environment use of Cus.")
     except:
         None
     try:
         print("Website (via " + data['website.provider'] + "): " + data['website'])
+        print("Warning! This is a bad way to use Providers and should be used in *DEV* environments.")
     except:
         None
     file.close()

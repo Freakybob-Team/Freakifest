@@ -1,4 +1,4 @@
 # Freakifest
 A unique Manifest knockoff.
-# [Docs](docs/formatting.md)
+# [Docs](docs/GS.md)
 # [Cool Projects that use FreakiFest](awesome.md)

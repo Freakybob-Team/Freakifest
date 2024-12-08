@@ -18,3 +18,7 @@ Version: 1
 Cus:
 <br>
 com.example.heart
+# Notes
+Cus.Provider is only required if using your own Cus. Others' Cus is formatted:
+<br>
+"site.freakybob.lorem": "ipsum dolar sit amet"

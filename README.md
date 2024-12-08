@@ -1,2 +1,3 @@
 # Freakifest
- Testing JSON reading :3
+A unique Manifest knockoff.
+# [Docs](docs/formatting.md)

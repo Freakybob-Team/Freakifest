@@ -13,7 +13,7 @@ It can be used anywhere, depending on what you're doing!
 <br>
 For example, if there were to be an extension store, it could list your Freakifest like this:
 <br>
-Version: 1
+Version: 2
 <br>
 Cus:
 <br>
